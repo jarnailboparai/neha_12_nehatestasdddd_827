@@ -1,0 +1,22 @@
+.theme_bg
+
+{
+
+	background-image:none;
+
+	background-repeat:no-repeat;
+
+	background-size:cover;	
+
+	background: linear-gradient(left , rgb(195, 98, 118) 29% , rgb(109, 162, 87) 67%);
+background: -o-linear-gradient(left , rgb(195, 98, 118) 29% , rgb(109, 162, 87) 67%);
+background: -ms-linear-gradient(left , rgb(195, 98, 118) 29% , rgb(109, 162, 87) 67%);
+background: -moz-linear-gradient(left , rgb(195, 98, 118) 29% , rgb(109, 162, 87) 67%);
+background: -webkit-linear-gradient(left , rgb(195, 98, 118) 29% , rgb(109, 162, 87) 67%);
+
+
+
+
+
+
+}
