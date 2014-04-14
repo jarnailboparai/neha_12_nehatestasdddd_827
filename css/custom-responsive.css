@@ -2,11 +2,8 @@
 	.logo{
 	padding:5% 0px 10%;
 	}	
-	.app_feature_list {
-		margin:0px 9%;
-	}
-	.app_feature_list label{
-		padding-top:10px;
+	.grid_menu{
+		width:220px;
 	}
 }
 @media (max-width: 768px){
@@ -37,6 +34,6 @@
     width: 262px;
 	}
 	.grid_menu{
-		width:220px;
+		width:228px;
 	}
 }
